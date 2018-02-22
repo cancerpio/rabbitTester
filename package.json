@@ -1,0 +1,19 @@
+{
+  "name": "rabbit",
+  "version": "1.0.0",
+  "description": "rabbitmq tester",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cancerpio/rabbitTester.git"
+  },
+  "author": "cancerpio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cancerpio/rabbitTester/issues"
+  },
+  "homepage": "https://github.com/cancerpio/rabbitTester#readme"
+}
